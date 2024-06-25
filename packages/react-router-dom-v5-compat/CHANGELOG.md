@@ -1,5 +1,24 @@
 # `react-router-dom-v5-compat`
 
+## 6.24.0
+
+### Patch Changes
+
+- Allow falsy `location.state` values passed to `<StaticRouter>` ([#11495](https://github.com/remix-run/react-router/pull/11495))
+- Updated dependencies:
+  - `react-router-dom@6.24.0`
+  - `react-router@6.24.0`
+  - `@remix-run/router@1.17.0`
+
+## 6.23.1
+
+### Patch Changes
+
+- Updated dependencies:
+  - `@remix-run/router@1.16.1`
+  - `react-router-dom@6.23.1`
+  - `react-router@6.23.1`
+
 ## 6.23.0
 
 ### Minor Changes

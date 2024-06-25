@@ -1,5 +1,27 @@
 # `react-router`
 
+## 6.24.0
+
+### Minor Changes
+
+- Add support for Lazy Route Discovery (a.k.a. Fog of War) ([#11626](https://github.com/remix-run/react-router/pull/11626))
+
+  - RFC: <https://github.com/remix-run/react-router/discussions/11113>
+  - `unstable_patchRoutesOnMiss` docs: <https://reactrouter.com/en/main/routers/create-browser-router>
+
+### Patch Changes
+
+- Updated dependencies:
+  - `@remix-run/router@1.17.0`
+
+## 6.23.1
+
+### Patch Changes
+
+- allow undefined to be resolved with `<Await>` ([#11513](https://github.com/remix-run/react-router/pull/11513))
+- Updated dependencies:
+  - `@remix-run/router@1.16.1`
+
 ## 6.23.0
 
 ### Minor Changes
